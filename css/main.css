@@ -1,0 +1,18 @@
+#restaurant-table tr:hover{ cursor:pointer; }
+#leaflet { height: 400px; }
+
+.name-col {
+    width: 300px;
+}
+
+.cuisine-col {
+   width: 300x;
+}
+
+.address-col {
+    width: 300px;
+}
+
+.score-col {
+    width: 150px;
+}
